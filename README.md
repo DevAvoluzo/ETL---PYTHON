@@ -12,3 +12,9 @@ Os dados são transformados calculando o total de vendas de cada loja da seguint
 
 Armazenamento de Banco de Dados:
 Os dados transformados são armazenados em um banco de dados SQLite para posterior análise e consulta.
+
+
+
+
+LINK GOOGLE COLAB:
+https://colab.research.google.com/drive/1HvoziUU8KsTQ-c-JJ9ygnAjvtbBRz0Uz?usp=sharing
