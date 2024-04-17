@@ -1,5 +1,5 @@
 
-Este projeto é um exemplo de como realizar o processo de ETL (Extração, Transformação e Carregamento) de dados usando Python e a biblioteca pandas, com o objetivo de manipular e armazenar dados de vendas em diferentes filiais.
+Este projeto é um exemplo de como realizar o processo de ETL (Extract, transform, load) de dados usando Python e a biblioteca pandas, com o objetivo de manipular e armazenar dados de vendas em diferentes filiais.
 
 Características:
 
